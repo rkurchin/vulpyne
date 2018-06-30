@@ -14,7 +14,7 @@ def parse_dict(**argv):
 
     # define some stuff
     match_strs = ['pertaining to', 'characteristic of']
-    extra_strs = ['related to','resembling', 'like', 'designating', 'containing', 'derived from', 'discovered by', 'obtained from', 'according to', 'conveying', 'induced by', 'used by', 'observed at', 'involving', 'characterized by', 'denoting', 'containing', 'possessed by', 'produced by', 'employed in', 'suitable for', 'derived from', 'composed of', 'concerned in', 'named from', 'in the region of', 'formed by', 'received during', 'secreting', 'attending with', 'producing', 'issued by', 'covered with', 'in conformity with', 'illustrating', 'characteristic of', 'made at', 'connected with', 'formed in', 'produced from', 'in the style of', 'including', 'affected by', 'uttered in', 'exhibiting the phenomena of', 'having the characteristics of', 'consisting of', 'affecting', 'denoting', 'engaging in', 'containing', 'conforming to', 'adapted to', 'confined in', 'befitting']
+    extra_strs = [l[:-1] for l in open('extra_strs.txt','r').readlines()]
     articles = ['a ', 'an ', 'the ']
     punc_list = [',',' (',',',';','.',';',',']
     punc_no_commas = [' (',';','.',';']

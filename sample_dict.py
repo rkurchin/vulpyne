@@ -1,8 +1,9 @@
-from functions, parse_dict import *
+from functions import *
+from parse_dict import *
 import sys
 
 if len(sys.argv)>1:
-    num = sys.argv[1]
+    num = int(sys.argv[1])
     if len(sys.argv)>2:
         nontrivial = bool(sys.argv[2])
     else:
@@ -16,4 +17,4 @@ if nontrivial:
     ind_arr = dct['nontrivial']==True
     dct = dct[ind_arr]
 
-print(dct.sample(num))
+print(dct.sample(num)[['target','triviality']])
