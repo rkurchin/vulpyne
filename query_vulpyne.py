@@ -1,8 +1,13 @@
 from parse_dict import parse_dict
+import pandas as pd
 import sys
 
 subset = parse_dict(to_print=False)
-query = sys.argv[1]
+query = sys.argv[1:]
 
-ind_arr=subset['target'].str.contains(query)
-print(subset[ind_arr][['target','triviality']])
+subsets = []
+for q in query:
+    ind_arr=subset['target'].str.contains(q)
+    subsets.append(subset[ind_arr])
+
+print(pd.concat(subsets)[['target','triviality']])
