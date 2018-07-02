@@ -1,3 +1,17 @@
+picine
+fringilline
+rhinocerial
+rhinocerotic
+rhinocerical
+strigine
+ranine
+pavonian
+amphisbaenoid
+araneidan
+crocodilian
+hystricine
+cetic
+scombroid
 vaccine
 peristeromorphous
 leporine
@@ -7,7 +21,6 @@ zoonic
 ophite
 anguine
 snaky
-anguine
 sturnoid
 filarial
 vermicular
