@@ -155,17 +155,17 @@ zoanthoid,Zoanthacea,,Zoanthacea,56,100,56
 zoilean,Zoilus,,Zoilus,50,100,50
 indian,India proper,aborigines,aborigines,67,50,50
 tetrolic,acid,,acid,25,100,25
-santonic,acid,,acid,33,100,33
-trigenic,acid,,acid,25,100,25
 tiglic,acid,,acid,25,100,25
 terpenylic,acid,,acid,25,100,25
+trigenic,acid,,acid,25,100,25
+santonic,acid,,acid,33,100,33
 metatungstic,acid known only in its salts,,acid known only in its salts,33,100,33
 saccholactic,acid now called mucic acid,,acid now called mucic acid,42,100,42
 sacchulmic,acid obtained as a dark amorphous substance by the long-continued boiling of sucrose with very dilute sulphuric acid,,acid obtained as a dark amorphous substance by the long-continued boiling of sucrose with very dilute sulphuric acid,50,100,50
 stearolic,acid of the acetylene series,,acid of the acetylene series,44,100,44
 glutaric,acid so called,,acid so called,27,100,27
-typographic,act or act of representing by types or symbols,typography or printing,act or act of representing by types or symbols,45,82,45
 typographical,act or act of representing by types or symbols,typography or printing,act or act of representing by types or symbols,38,69,38
+typographic,act or act of representing by types or symbols,typography or printing,act or act of representing by types or symbols,45,82,45
 panhellenic,all Greece,,all Greece,50,100,50
 irritability,all living organisms,,all living organisms,33,100,33
 pangothic,all the Gothic races,,all the Gothic races,56,100,56
@@ -175,8 +175,8 @@ corinthian,Corinthian order of architecture,amateur sailor or yachtsman,amateur 
 carthaginian,ancient Carthage,,ancient Carthage,50,100,50
 punic,ancient Carthaginians,,ancient Carthaginians,40,100,40
 pyrrhic,ancient Greek martial dance,pyrrhic,ancient Greek martial dance,29,100,29
-classical,ancient Greeks and Romans,places inhabited by the ancient Greeks and Romans,ancient Greeks and Romans,22,44,22
 classic,ancient Greeks and Romans,places inhabited by the ancient Greeks and Romans,ancient Greeks and Romans,29,43,29
+classical,ancient Greeks and Romans,places inhabited by the ancient Greeks and Romans,ancient Greeks and Romans,22,44,22
 dorian,ancient Greeks of Doris,,ancient Greeks of Doris,55,100,55
 norse,ancient Scandinavia,,ancient Scandinavia,20,100,20
 trojan,ancient Troy or its inhabitants,,ancient Troy or its inhabitants,50,100,50
@@ -185,8 +185,8 @@ gonidial,angles of the mouth,,angles of the mouth,25,100,25
 tartrelic,anhydride,,anhydride,35,100,35
 adipose,animal fat,,animal fat,29,100,29
 zooenic,animals,,animals,29,100,29
-zoic,animals,,animals,25,100,25
 zoonic,animals,,animals,33,100,33
+zoic,animals,,animals,25,100,25
 chelonian,animals of the tortoise kind,,animals of the tortoise kind,44,100,44
 incident,another thing,passing with,another thing,29,50,29
 formicate,ant or ants,,ant or ants,47,100,47
@@ -208,21 +208,21 @@ lithoglyphic,art of cutting and engraving precious stones,,art of cutting and en
 lapidary,art of cutting stones,monumental inscriptions,art of cutting stones,14,38,14
 veterinary,art of healing or treating the diseases of domestic animals,,art of healing or treating the diseases of domestic animals,40,100,40
 taxidermic,art of preparing and preserving the skins of animals,,art of preparing and preserving the skins of animals,30,100,30
-graphic,arts of painting and drawing,art of writing,art of writing,43,29,29
 graphical,arts of painting and drawing,art of writing,art of writing,33,22,22
+graphic,arts of painting and drawing,art of writing,art of writing,43,29,29
 galvanoplastic,art or process of electrotyping,,art or process of electrotyping,29,100,29
 louis quatorze,art or style of the times of Louis XIV,,art or style of the times of Louis XIV,36,100,36
 -ic,as,as,as,0,0,0
 favillous,ashes,,ashes,29,100,29
 agonistical,athletic or polemic feats,,athletic or polemic feats,36,100,36
 agonistic,athletic or polemic feats,,athletic or polemic feats,44,100,44
-meteorologic,atmosphere and its phenomena,,atmosphere and its phenomena,25,100,25
 meteorological,atmosphere and its phenomena,,atmosphere and its phenomena,30,100,30
-desquamative,attended with,,attended with,25,100,25
+meteorologic,atmosphere and its phenomena,,atmosphere and its phenomena,25,100,25
 desquamatory,attended with,,attended with,25,100,25
+desquamative,attended with,,attended with,25,100,25
+nuchal,back,,back,25,100,25
 tergal,back,,back,25,100,25
 notal,back,,back,25,100,25
-nuchal,back,,back,25,100,25
 spinal,backbone,spine or spines,backbone,17,67,17
 riparian,bank of a river,,bank of a river,38,100,38
 tonsorial,barber,,barber,17,100,17
@@ -230,9 +230,9 @@ nidamental,baring,,baring,33,100,33
 balneal,bath,,bath,50,100,50
 rostral,beak or snout of an animal,,beak or snout of an animal,43,100,43
 ursine,bear,,bear,25,100,25
-clinic,bed,clinic,bed,0,100,0
 thoral,bed,,bed,0,100,0
 clinical,bed,clinic,bed,0,100,0
+clinic,bed,clinic,bed,0,100,0
 inchoative,beginning,,beginning,32,100,32
 initial,beginning,,beginning,43,100,43
 primitive,beginning or origin,former time,beginning or origin,33,56,33
@@ -248,8 +248,8 @@ vesical,bladder,,bladder,14,100,14
 vesicoprostatic,bladder and the prostrate gland,,bladder and the prostrate gland,53,100,53
 vesicouterine,bladder and the uterus,,bladder and the uterus,40,100,40
 vesicovaginal,bladder and the vagina,,bladder and the vagina,56,100,56
-haematic,blood,,blood,0,100,0
 sanguineous,blood,,blood,20,100,20
+haematic,blood,,blood,0,100,0
 cyanic,blue color,,blue color,17,100,17
 navicular,boat or ship,,boat or ship,22,100,22
 carnal,body or is appetites,,body or is appetites,17,100,17
@@ -275,8 +275,8 @@ tibiotarsal,both to the tibia and the tarsus,tibiotarsus,both to the tibia and t
 oenanthic,bouquet of wine,,bouquet of wine,33,100,33
 lettic,Letts,branch of the Slavic family,branch of the Slavic family,60,50,50
 panary,bread or to breadmaking,,bread or to breadmaking,33,100,33
-artocarpous,breadfruit,,breadfruit,40,100,40
 artocarpeous,breadfruit,,breadfruit,36,100,36
+artocarpous,breadfruit,,breadfruit,40,100,40
 pectoral,breast,,breast,33,100,33
 aspiratory,breathing,,breathing,35,100,35
 fraternal,brethren,,brethren,50,100,50
@@ -285,8 +285,8 @@ parietal,wall,buildings or the care of them,buildings or the care of them,50,38,
 tauromachian,bullfights,,bullfights,20,100,20
 obsequy,burial,,burial,33,100,33
 sepulchral,burial,,burial,50,100,50
-pragmatical,business or to affairs,,business or to affairs,36,100,36
 pragmatic,business or to affairs,,business or to affairs,33,100,33
+pragmatical,business or to affairs,,business or to affairs,36,100,36
 fat,butter,,butter,33,100,33
 sural,calf of the leg,,calf of the leg,20,100,20
 vituline,calf or veal,,calf or veal,25,100,25
@@ -294,10 +294,10 @@ vocative,calling,,calling,46,100,46
 metropolitan,capital or principal city of a country,metropolitan or the presiding bishop of a country or province,capital or principal city of a country,42,100,42
 primipilar,captain of the vanguard of a Roman army,,captain of the vanguard of a Roman army,30,100,30
 palmic,castor-oil plant,,castor-oil plant,33,100,33
-microbian,caused by,,caused by,22,100,22
-filarial,caused by,,caused by,12,100,12
 zymotic,caused by,certain class of diseases,caused by,14,29,14
 metastatic,caused by,,caused by,22,100,22
+filarial,caused by,,caused by,12,100,12
+microbian,caused by,,caused by,22,100,22
 chelidonic,celandine,,celandine,56,100,56
 barycentric,center of gravity,,center of gravity,43,100,43
 cerebro-spinal,central nervous system consisting of the brain and spinal cord,,central nervous system consisting of the brain and spinal cord,43,100,43
@@ -324,8 +324,8 @@ metabolic,metamorphosis,change,change,56,17,17
 paraschematic,change from the right form,,change from the right form,31,100,31
 lithologic,character of a rock,lithology,character of a rock,30,89,30
 lithological,character of a rock,lithology,character of a rock,33,89,33
-pliocene,characterizing,,characterizing,27,100,27
 poecilitic,characterizing,,characterizing,30,100,30
+pliocene,characterizing,,characterizing,27,100,27
 trichopterous,characterizing,,characterizing,38,100,38
 pyrognostic,characters developed by the use of heat,characters of minerals when examined before the blowpipe,characters of minerals when examined before the blowpipe,27,27,27
 aurigal,chariot,,chariot,46,100,46
@@ -333,8 +333,8 @@ toreutic,sculpture in relief,chasing such as surface ornamentation in metal,chas
 caseic,cheese,,cheese,50,100,50
 caseous,cheese,,cheese,50,100,50
 puerperal,childbirth,,childbirth,11,100,11
-genian,chin,,chin,50,100,50
 mental,chin,mind,chin,25,50,25
+genian,chin,,chin,50,100,50
 mentomeckelian,chin and lower jaw,,chin and lower jaw,29,100,29
 relative,chords and keys,,chords and keys,26,100,26
 ecclesiastical,church,,church,33,100,33
@@ -350,8 +350,8 @@ souterly,cobbler or cobblers,,cobbler or cobblers,38,100,38
 crow,cock,,cock,50,100,50
 nummulary,coin or money,,coin or money,27,100,27
 nummular,coin or money,,coin or money,25,100,25
-numismatic,coins,,coins,40,100,40
 numismatical,coins,,coins,40,100,40
+numismatic,coins,,coins,40,100,40
 miniate,color of red lead or vermilion,,color of red lead or vermilion,46,100,46
 pectinal,comb,,comb,25,100,25
 thalian,Thalia,comedy,comedy,83,0,0
@@ -368,11 +368,11 @@ eurafric,continents of Europe and Africa combined,,continents of Europe and Afri
 eurafrican,continents of Europe and Africa combined,,continents of Europe and Africa combined,50,100,50
 eurasiatio,continents of Europe and Asia combined,,continents of Europe and Asia combined,40,100,40
 polemic,controversy,,controversy,29,100,29
+venereal,venery,copper,copper,83,33,33
 cupric,copper,,copper,50,100,50
 cuprous,copper,,copper,50,100,50
-venereal,venery,copper,copper,83,33,33
-suberic,cork,,cork,25,100,25
 subereous,cork,,cork,25,100,25
+suberic,cork,,cork,25,100,25
 cadaveric,corpse,,corpse,33,100,33
 tussicular,cough,,cough,40,100,40
 rustic,country,,country,33,100,33
@@ -389,8 +389,8 @@ phlogopite,crystalline limestone or dolomite and serpentine,,crystalline limesto
 syphilodermatous,cutaneous manifestations of syphilis,,cutaneous manifestations of syphilis,44,100,44
 sepidaceous,cuttlefishes of the genus Sepia,,cuttlefishes of the genus Sepia,45,100,45
 caecal,cæcum,,cæcum,40,100,40
-terpsichorean,Terpsichore,dancing,dancing,91,29,29
 tripudiary,dancing,,dancing,29,100,29
+terpsichorean,Terpsichore,dancing,dancing,91,29,29
 obscure,darkness or night,,darkness or night,29,100,29
 pridian,day before,,day before,24,100,24
 black-letter,days in the calendar not marked with red letters as saints' days,,days in the calendar not marked with red letters as saints' days,50,100,50
@@ -405,9 +405,9 @@ moratory,delay,,delay,40,100,40
 diluvian,deluge,,deluge,50,100,50
 demoniacal,demon or evil spirit,,demon or evil spirit,50,100,50
 zoographic,description of animals,,description of animals,40,100,40
-zoographical,description of animals,,description of animals,50,100,50
-zooegraphic,description of animals,,description of animals,36,100,36
 zooegraphical,description of animals,,description of animals,46,100,46
+zooegraphic,description of animals,,description of animals,36,100,36
+zoographical,description of animals,,description of animals,50,100,50
 paleontographical,description of fossil remains,,description of fossil remains,35,100,35
 orectic,desires,,desires,29,100,29
 prejudical,determination of some matter not previously decided,,determination of some matter not previously decided,50,100,50
@@ -422,8 +422,8 @@ mastiff,different countries,,different countries,29,100,29
 pleomorphism,different genera and species,,different genera and species,33,100,33
 fodient,digging,,digging,43,100,43
 cenatory,dinner or supper,,dinner or supper,38,100,38
-gymnastical,disciplinary exercises for the intellect,,disciplinary exercises for the intellect,27,100,27
 gymnastic,disciplinary exercises for the intellect,,disciplinary exercises for the intellect,33,100,33
+gymnastical,disciplinary exercises for the intellect,,disciplinary exercises for the intellect,27,100,27
 pathognomonic,disease,,disease,14,100,14
 farcical,disease called farcy,,disease called farcy,50,100,50
 morbid,disease or diseased parts,,disease or diseased parts,50,100,50
@@ -449,9 +449,9 @@ archaeolithic,earliest Stone age,,earliest Stone age,38,100,38
 archaean,earliest period in geological history,,earliest period in geological history,38,100,38
 youthful,early part of life,,early part of life,38,100,38
 telluric,earth,tellurium,earth,40,88,40
-terrene,earth,,earth,40,100,40
 tellural,earth,,earth,40,100,40
 tellurian,earth,,earth,40,100,40
+terrene,earth,,earth,40,100,40
 seismal,earthquake,,earthquake,24,100,24
 seismic,earthquake,,earthquake,14,100,14
 ovicular,egg,,egg,0,100,0
@@ -472,22 +472,19 @@ ethological,ethnic or morality,,ethnic or morality,48,100,48
 vespertine,evening,,evening,47,100,47
 vesper,evening,,evening,33,100,33
 pseudo-heart,excretory system,,excretory system,33,100,33
-amphitheatric,exhibited in,,exhibited in,42,100,42
-amphitheatrical,exhibited in,,exhibited in,42,100,42
 homopolic,exhibiting that kind of organic form,,exhibiting that kind of organic form,33,100,33
 statal,existing with reference to,,existing with reference to,33,100,33
-omphacine,expressed from,,expressed from,22,100,22
-parenthetic,expressed in,,expressed in,45,100,45
 parenthetical,expressed in,,expressed in,42,100,42
+parenthetic,expressed in,,expressed in,45,100,45
 attributive,expressing,,expressing,20,100,20
 hercynian,extensive forest in Germany,,extensive forest in Germany,44,100,44
 pontine,extensive marshy district between Rome and Naples,,extensive marshy district between Rome and Naples,43,100,43
 pudic,external organs of generation,,external organs of generation,20,100,20
 hybodont,extinct genus of sharks,,extinct genus of sharks,13,100,13
 oculary,eye,,eye,33,100,33
-optic,vision or sight,eye,eye,20,0,0
-ophthalmic,eye,,eye,0,100,0
 optical,vision or sight,eye,eye,18,0,0
+ophthalmic,eye,,eye,0,100,0
+optic,vision or sight,eye,eye,20,0,0
 ocular,eye,,eye,0,100,0
 superciliary,eyebrows,,eyebrows,25,100,25
 palpebral,eyelids,,eyelids,29,100,29
@@ -515,8 +512,8 @@ convival,feast or to festivity,,feast or to festivity,25,100,25
 pedestrial,feet,,feet,50,100,50
 holiday,festival,,festival,29,100,29
 bacchanalian,festival of Bacchus,,festival of Bacchus,33,100,33
-pyrexical,fever,,fever,20,100,20
 pyrexial,fever,,fever,20,100,20
+pyrexical,fever,,fever,20,100,20
 pyretic,fever,,fever,20,100,20
 peroneal,fibula,,fibula,17,100,17
 trigeminal,fifth pair of cranial nerves,,fifth pair of cranial nerves,40,100,40
@@ -524,15 +521,15 @@ cameralistic,finance and public revenue,,finance and public revenue,32,100,32
 fringilline,finches,,finches,44,100,44
 dactylar,finger or toe,,finger or toe,12,100,12
 abietic,fir tree or its products,,fir tree or its products,29,100,29
-pyrotechnic,fireworks,,fireworks,22,100,22
 pyrotechnical,fireworks,,fireworks,22,100,22
+pyrotechnic,fireworks,,fireworks,22,100,22
 merovingian,first Frankish dynasty in Gaul or France,,first Frankish dynasty in Gaul or France,27,100,27
 protoplasmic,first formation of living bodies,protoplasm,first formation of living bodies,42,100,42
 piscine,fish or fishes,,fish or fishes,43,100,43
-ichthyic,fishes,,fishes,33,100,33
 finny,fishes,,fishes,40,100,40
-piscatory,fishes or fishing,,fishes or fishing,44,100,44
+ichthyic,fishes,,fishes,33,100,33
 piscatorial,fishes or fishing,,fishes or fishing,45,100,45
+piscatory,fishes or fishing,,fishes or fishing,44,100,44
 pabular,fit for,,fit for,14,100,14
 stative,fixed camp,,fixed camp,24,100,24
 carnic,flesh,hydroscopic monobasic acid,flesh,0,50,0
@@ -564,8 +561,8 @@ glyptic,gem engraving,,gem engraving,29,100,29
 gemmaceous,gems or to gemmæ,,gems or to gemmæ,40,100,40
 multiphase,generator producing,,generator producing,20,100,20
 alliaceous,genus Allium,,genus Allium,40,100,40
-bovine,genus Bos,oxen or cows,genus Bos,17,22,17
 neat,genus Bos,,genus Bos,25,100,25
+bovine,genus Bos,oxen or cows,genus Bos,17,22,17
 caraboid,genus Carabus,,genus Carabus,53,100,53
 didine,genus Didus,,genus Didus,33,100,33
 feline,genus Felis,,genus Felis,55,100,55
@@ -574,16 +571,16 @@ miliolitic,genus Miliola,,genus Miliola,50,100,50
 mugiloid,genus Mugil,,genus Mugil,50,100,50
 mulloid,genus Mullus,,genus Mullus,43,100,43
 muricoid,genus Murex,,genus Murex,25,100,25
-murenoid,genus Muræna,,genus Muræna,38,100,38
 muraenoid,genus Muræna,,genus Muræna,33,100,33
+murenoid,genus Muræna,,genus Muræna,38,100,38
 mytiloid,genus Mytilus,,genus Mytilus,53,100,53
 pavonine,genus Pavo,,genus Pavo,38,100,38
 taurine,genus Taurus,,genus Taurus,46,100,46
 sanctionary,giving,,giving,33,100,33
 vitreous,glass,,glass,20,100,20
 caprine,goat,,goat,18,100,18
-hircinous,goat or the goats,,goat or the goats,33,100,33
 hircine,goat or the goats,,goat or the goats,29,100,29
+hircinous,goat or the goats,,goat or the goats,33,100,33
 jovial,god,,god,33,100,33
 chthonian,gods or spirits of the underworld,,gods or spirits of the underworld,33,100,33
 auric,gold,,gold,0,100,0
@@ -596,8 +593,8 @@ nephrolithic,gravel,,gravel,33,100,33
 glauconite,greensand of the chalk and other formations,,greensand of the chalk and other formations,40,100,40
 thooid,group of carnivores,,group of carnivores,24,100,24
 gingival,gums,,gums,25,100,25
-schetical,habit of the body,,habit of the body,22,100,22
 schetic,habit of the body,,habit of the body,29,100,29
+schetical,habit of the body,,habit of the body,22,100,22
 crinal,hair,,hair,25,100,25
 semicentennial,half of a century,,half of a century,29,100,29
 popliteal,ham,,ham,33,100,33
@@ -608,21 +605,20 @@ isodynamic,having,,having,33,100,33
 minimal,having a character of,,having a character of,43,100,43
 neuralgic,having the character of,,having the character of,44,100,44
 atheromatous,having the nature of,,having the nature of,50,100,50
-tautochronous,having the properties of,,having the properties of,32,100,32
 medical,having to do with,,having to do with,29,100,29
 capital,head,,head,25,100,25
 cephalic,head,,head,50,100,50
-therapeutic,healing art,,healing art,38,100,38
 therapeutical,healing art,,healing art,45,100,45
-hygeian,health,,health,50,100,50
-sanitary,health,,health,33,100,33
+therapeutic,healing art,,healing art,38,100,38
 sanitarian,health,,health,25,100,25
+sanitary,health,,health,33,100,33
+hygeian,health,,health,50,100,50
 sanatory,health,,health,33,100,33
-auditory,hearing,,hearing,27,100,27
 auditive,hearing,,hearing,27,100,27
+auditory,hearing,,hearing,27,100,27
+thermotical,heat,,heat,50,100,50
 thermal,heat,,heat,55,100,55
 thermotic,heat,,heat,50,100,50
-thermotical,heat,,heat,50,100,50
 thermic,heat,,heat,50,100,50
 spherical,sphere,heavenly orbs,heavenly orbs,83,36,36
 spheric,sphere,heavenly orbs,heavenly orbs,83,30,30
@@ -630,8 +626,8 @@ uranic,heavens,,heavens,33,100,33
 erinaceous,hedgehog,,hedgehog,33,100,33
 altitudinal,height,,height,24,100,24
 ganancial,held under,,held under,11,100,11
-oligistic,hematite,,hematite,25,100,25
 oligist,hematite,,hematite,29,100,29
+oligistic,hematite,,hematite,25,100,25
 acroceraunian,"high mountain range of ""thunder- smitten"" peaks",,"high mountain range of ""thunder- smitten"" peaks",31,100,31
 locomotion,higher animals and some of the lower forms of plant life,,higher animals and some of the lower forms of plant life,40,100,40
 empyreal,highest and purest region of heaven,,highest and purest region of heaven,38,100,38
@@ -643,17 +639,17 @@ suilline,hog or the Hog family,,hog or the Hog family,25,100,25
 independent,holding to the doctrines or methods of,,holding to the doctrines or methods of,36,100,36
 ferial,holidays,,holidays,33,100,33
 ungular,hoof,,hoof,0,100,0
-caballine,horse,,horse,20,100,20
 equine,horse,,horse,20,100,20
+caballine,horse,,horse,20,100,20
 equestrian,horses or horsemen,,horses or horsemen,30,100,30
 nosocomial,hospital,,hospital,56,100,56
 hydrothermal,hot water,,hot water,56,100,56
 calcific,hte portion of the which forms the eggshell in birds and reptiles,,hte portion of the which forms the eggshell in birds and reptiles,38,100,38
 psychic,human soul,mind,human soul,14,25,14
-venatorial,hunting,,hunting,43,100,43
-venatic,hunting,,hunting,46,100,46
-venary,hunting,,hunting,17,100,17
 venatical,hunting,,hunting,43,100,43
+venatic,hunting,,hunting,46,100,46
+venatorial,hunting,,hunting,43,100,43
+venary,hunting,,hunting,17,100,17
 marital,husband,,husband,14,100,14
 colonical,husbandmen,,husbandmen,11,100,11
 tabernacular,tabernacle,huts or booths,huts or booths,90,17,17
@@ -664,18 +660,16 @@ sulphophosphoric,hypothetical sulphacid of phosphorus,,hypothetical sulphacid of
 sulphotungstic,hypothetical sulphacid of tungsten,,hypothetical sulphacid of tungsten,50,100,50
 yuman,important linguistic stock of North American Indians of the southwestern United States and northwestern Mexico,,important linguistic stock of North American Indians of the southwestern United States and northwestern Mexico,40,100,40
 oxychloric,in general,,in general,10,100,10
-helical,in the form of,,in the form of,29,100,29
-nodular,in the form of,,in the form of,29,100,29
 fabian,in the manner of,,in the manner of,33,100,33
 turndown,incandescent lamp with a small additional filament which can be made incandescent when only a small amount of light is required,,incandescent lamp with a small additional filament which can be made incandescent when only a small amount of light is required,38,100,38
 tropical,tropics,incident to,incident to,86,25,25
-bilinear,included by,,included by,32,100,32
 trilinear,included by,,included by,33,100,33
+bilinear,included by,,included by,32,100,32
 ingluvial,indulges or crop of birds,,indulges or crop of birds,44,100,44
 scottish,inhabitants of Scotland,,inhabitants of Scotland,38,100,38
 citizen,inhabitants of a city,citizens,inhabitants of a city,43,100,43
-atramentous,ink,,ink,33,100,33
 atramental,ink,,ink,33,100,33
+atramentous,ink,,ink,33,100,33
 lunatic,insane person,,insane person,20,100,20
 ametabolian,insects that do undergo any metamorphosis,,insects that do undergo any metamorphosis,45,100,45
 laryngoscopic,inspection of the larynx,,inspection of the larynx,38,100,38
@@ -685,13 +679,13 @@ noetical,intellect,,intellect,38,100,38
 plutonic,Pluto,interior of the earth,interior of the earth,80,14,14
 hermeneutic,interpretation,,interpretation,45,100,45
 hermeneutical,interpretation,,interpretation,40,100,40
-oneirocritical,interpretation of dreams,,interpretation of dreams,43,100,43
 oneirocritic,interpretation of dreams,,interpretation of dreams,50,100,50
+oneirocritical,interpretation of dreams,,interpretation of dreams,43,100,43
 eleventh,interval of the octave and the fourth,,interval of the octave and the fourth,38,100,38
 inframedian,interval or zone along the sea bottom,,interval or zone along the sea bottom,36,100,36
 iridic,iris of the eye,iridium,iris of the eye,50,83,50
-iridal,iris or rainbow,,iris or rainbow,50,100,50
 iridian,iris or rainbow,,iris or rainbow,45,100,45
+iridal,iris or rainbow,,iris or rainbow,50,100,50
 ferreous,iron,,iron,50,100,50
 ischiocapsular,ischium and the capsule of the hip joint,,ischium and the capsule of the hip joint,50,100,50
 sardinian,island,,island,55,100,55
@@ -756,8 +750,8 @@ bacillary,little rods,,little rods,33,100,33
 hepatic,liver,,liver,20,100,20
 hepatocystic,liver and gall bladder,,liver and gall bladder,17,100,17
 hepatorenal,liver and kidneys,,liver and kidneys,27,100,27
-palustrine,living in,,living in,33,100,33
 fresh-water,living in,,living in,0,100,0
+palustrine,living in,,living in,33,100,33
 metabranchial,lobe of the carapace of crabs covering the posterior branchiæ,,lobe of the carapace of crabs covering the posterior branchiæ,54,100,54
 lumbosacral,loins and sacrum,,loins and sacrum,44,100,44
 seigneurial,lord of a manor,,lord of a manor,18,100,18
@@ -790,8 +784,8 @@ regeneration,many of the lower animals,,many of the lower animals,42,100,42
 matrimonial,marriage,,marriage,53,100,53
 nuptial,marriage,,marriage,29,100,29
 hymenean,marriage,,marriage,25,100,25
-connubial,marriage,,marriage,27,100,27
 hymeneal,marriage,,marriage,25,100,25
+connubial,marriage,,marriage,27,100,27
 paludine,marsh,,marsh,20,100,20
 paludinous,genus Paludina,marsh or fen,marsh or fen,67,20,20
 paludal,marshes or fens,,marshes or fens,14,100,14
@@ -804,22 +798,22 @@ medial,mean or average,,mean or average,50,100,50
 galvanometric,measured by,,measured by,27,100,27
 metrical,meter,measurement,measurement,80,38,38
 gravimetric,measurement by weight,,measurement by weight,36,100,36
-gasometrical,measurement of gases,,measurement of gases,42,100,42
 gasometric,measurement of gases,,measurement of gases,50,100,50
+gasometrical,measurement of gases,,measurement of gases,42,100,42
 hydrometrical,hydrometer,measurement of the velocity,measurement of the velocity,90,31,31
 hydrometric,hydrometer,measurement of the velocity,measurement of the velocity,90,36,36
-iatrical,medicine,,medicine,27,100,27
 iatric,medicine,,medicine,33,100,33
+iatrical,medicine,,medicine,27,100,27
 hydrargyrate,mercury,,mercury,43,100,43
 wireless,method of telegraphy,,method of telegraphy,38,100,38
 noonday,midday,,midday,50,100,50
 miocene,middle division of the Tertiary,,middle division of the Tertiary,43,100,43
 mesocephalic,middle of the head,,middle of the head,40,100,40
 mesogastric,middle region of the abdomen,mesogaster,middle region of the abdomen,36,90,36
-obstetrical,midwifery,,midwifery,22,100,22
 obstetric,midwifery,,midwifery,22,100,22
-lactic,milk,,milk,25,100,25
+obstetrical,midwifery,,midwifery,22,100,22
 galactic,milk,galaxy or Milky Way,milk,25,50,25
+lactic,milk,,milk,25,100,25
 psychical,human soul,mind,mind,32,25,25
 idiomatical,mode of expression peculiar to a language,,mode of expression peculiar to a language,45,100,45
 idiomatic,mode of expression peculiar to a language,,mode of expression peculiar to a language,33,100,33
@@ -846,28 +840,28 @@ hircic,mutton suet,,mutton suet,0,100,0
 lunisolar,mutual relations,,mutual relations,33,100,33
 nominal,name or names,,name or names,43,100,43
 domestic,one's house or home,nation considered as a family or home,nation considered as a family or home,38,38,38
-xyridaceous,natural order,,natural order,27,100,27
-verbenaceous,natural order,,natural order,25,100,25
-umbelliferous,natural order,,natural order,31,100,31
 sapotaceous,natural order,,natural order,36,100,36
+verbenaceous,natural order,,natural order,25,100,25
 urticaceous,natural order,,natural order,36,100,36
+xyridaceous,natural order,,natural order,27,100,27
+umbelliferous,natural order,,natural order,31,100,31
 sterculiaceous,natural order,,natural order,31,100,31
 polygonaceous,natural order of apetalous plants,,natural order of apetalous plants,46,100,46
 geraniaceous,natural order of pants,,natural order of pants,42,100,42
-oleaceous,natural order of plants,,natural order of plants,44,100,44
-scitamineous,natural order of plants,,natural order of plants,29,100,29
-tiliaceous,natural order of plants,,natural order of plants,30,100,30
-portulacaceous,natural order of plants,,natural order of plants,36,100,36
-polygalaceous,natural order of plants,,natural order of plants,31,100,31
-gentianaceous,natural order of plants,,natural order of plants,33,100,33
 violaceous,natural order of plants,,natural order of plants,40,100,40
 polemoniaceous,natural order of plants,,natural order of plants,29,100,29
-papaveraceous,natural order of plants,,natural order of plants,33,100,33
-saxifragaceous,natural order of plants,,natural order of plants,36,100,36
-santalaceous,natural order of plants,,natural order of plants,42,100,42
+portulacaceous,natural order of plants,,natural order of plants,36,100,36
+oleaceous,natural order of plants,,natural order of plants,44,100,44
+polygalaceous,natural order of plants,,natural order of plants,31,100,31
 juncaceous,natural order of plants,,natural order of plants,30,100,30
-rosaceous,natural order of plants,,natural order of plants,33,100,33
+gentianaceous,natural order of plants,,natural order of plants,33,100,33
+saxifragaceous,natural order of plants,,natural order of plants,36,100,36
 ranunculaceous,natural order of plants,,natural order of plants,36,100,36
+tiliaceous,natural order of plants,,natural order of plants,30,100,30
+santalaceous,natural order of plants,,natural order of plants,42,100,42
+rosaceous,natural order of plants,,natural order of plants,33,100,33
+scitamineous,natural order of plants,,natural order of plants,29,100,29
+papaveraceous,natural order of plants,,natural order of plants,33,100,33
 rhamnaceous,natural order of shrubs and trees,,natural order of shrubs and trees,36,100,36
 malpighiaceous,natural order of tropical trees and shrubs,,natural order of tropical trees and shrubs,36,100,36
 liliaceous,natural order of which the lily,,natural order of which the lily,30,100,30
@@ -883,17 +877,17 @@ optimate,nobility or aristocracy,,nobility or aristocracy,38,100,38
 apposition,non vascular tissues,,non vascular tissues,40,100,40
 midday,noon,,noon,0,100,0
 pennaceous,normal feather,,normal feather,30,100,30
-boreal,north,,north,40,100,40
 septentrional,north,,north,40,100,40
+boreal,north,,north,40,100,40
 septentrion,north,,north,40,100,40
-armoric,northwestern part of France,,northwestern part of France,43,100,43
 armorican,northwestern part of France,,northwestern part of France,44,100,44
-nasal,nose,,nose,50,100,50
+armoric,northwestern part of France,,northwestern part of France,43,100,43
 naso-,nose,,nose,50,100,50
+nasal,nose,,nose,50,100,50
 nasofrontal,nose and the front of the head,,nose and the front of the head,45,100,45
 rhinal,nose or olfactory organs,,nose or olfactory organs,33,100,33
-zootrophic,nourishment of animals,,nourishment of animals,30,100,30
 zooetrophic,nourishment of animals,,nourishment of animals,36,100,36
+zootrophic,nourishment of animals,,nourishment of animals,30,100,30
 octonary,number eight,,number eight,20,100,20
 novenary,number nine,,number nine,38,100,38
 maritime,ocean,navigation and naval affairs,ocean,20,50,20
@@ -908,8 +902,8 @@ individual,one only,single person or thing,one only,22,30,22
 urohyal,one or more median and posterior elements in the hyoidean arch of fishes,,one or more median and posterior elements in the hyoidean arch of fishes,29,100,29
 way-going,one who goes away,,one who goes away,33,100,33
 reprobate,one who is given up to wickedness,,one who is given up to wickedness,22,100,22
-native,one's birth,,one's birth,33,100,33
 natal,one's birth,,one's birth,25,100,25
+native,one's birth,,one's birth,33,100,33
 natalitial,one's birth or birthday,,one's birth or birthday,30,100,30
 natalitious,one's birth or birthday,,one's birth or birthday,27,100,27
 home,one's dwelling or country,,one's dwelling or country,25,100,25
@@ -919,32 +913,34 @@ strange,others,one's self,one's self,33,29,29
 brag,one's self,,one's self,0,100,0
 subdial,open air,,open air,14,100,14
 stomatoplastic,operation of forming a mouth where the aperture has been contracted,,operation of forming a mouth where the aperture has been contracted,36,100,36
-rabbinic,rabbins or rabbis,opinions,opinions,75,38,38
 rabbinical,rabbins or rabbis,opinions,opinions,60,38,38
+rabbinic,rabbins or rabbis,opinions,opinions,75,38,38
 scioptic,optical arrangement for forming images in a darkened room,,optical arrangement for forming images in a darkened room,25,100,25
 insensuous,or addressing,,or addressing,30,100,30
 gentlemanlike,or becoming,,or becoming,27,100,27
 gentlemanly,or becoming,,or becoming,29,100,29
-manganic,or containing,,or containing,50,100,50
-plumbic,or containing,,or containing,14,100,14
 sulphatic,or containing,,or containing,22,100,22
+plumbic,or containing,,or containing,14,100,14
+manganic,or containing,,or containing,50,100,50
 lymphatic,or conveying lymph,,or conveying lymph,56,100,56
 fulminic,or denoting,,or denoting,25,100,25
-muscatel,or derived from,,or derived from,12,100,12
 pectosic,or derived from,,or derived from,25,100,25
 mannitic,or derived from,,or derived from,12,100,12
+muscatel,or derived from,,or derived from,12,100,12
 nonylenic,or designating,,or designating,35,100,35
 sulphocyanic,or designating,,or designating,25,100,25
 magneto-,or in some way connected with,,or in some way connected with,38,100,38
 metaleptic,metalepsis,or occurring by,or occurring by,80,10,10
 ancestral,or possessed by,,or possessed by,22,100,22
-childish,or resembling,,or resembling,25,100,25
-euxanthic,or resembling,,or resembling,22,100,22
+amphitheatrical,or resembling,,or resembling,15,100,15
 phenic,or resembling,,or resembling,33,100,33
+euxanthic,or resembling,,or resembling,22,100,22
+childish,or resembling,,or resembling,25,100,25
+amphitheatric,or resembling,,or resembling,16,100,16
 orbitonasal,orbit and the nose,,orbit and the nose,55,100,55
 tuscan,Tuscany in Italy,order,order,83,0,0
-piperaceous,order of plants,,order of plants,31,100,31
 araceous,order of plants,,order of plants,38,100,38
+piperaceous,order of plants,,order of plants,31,100,31
 amaryllidaceous,order of plants differing from the lily family chiefly in having the ovary below the,,order of plants differing from the lily family chiefly in having the ovary below the,33,100,33
 amaryllideous,order of plants differing from the lily family chiefly in having the ovary below the,,order of plants differing from the lily family chiefly in having the ovary below the,38,100,38
 sapindaceous,order of trees and shrubs,,order of trees and shrubs,50,100,50
@@ -952,8 +948,8 @@ tartronic,organic acid,,organic acid,44,100,44
 systemless,organic nature,,organic nature,20,100,20
 tactile,organs,,organs,17,100,17
 motorial,organs of motion,,organs of motion,50,100,50
-aristocratical,aristocracy,originating with,originating with,82,36,36
 aristocratic,aristocracy,originating with,originating with,87,42,42
+aristocratical,aristocracy,originating with,originating with,82,36,36
 topiarian,ornamental cutting and trimming of trees,,ornamental cutting and trimming of trees,44,100,44
 topiary,ornamental gardening,,ornamental gardening,43,100,43
 strigine,owls,,owls,17,100,17
@@ -964,16 +960,16 @@ psittacid,parrots,,parrots,29,100,29
 subapical,part just below the apex,,part just below the apex,33,100,33
 infrastapedial,part of the columella of the ear,,part of the columella of the ear,29,100,29
 lee,part or side opposite to that against which the wind blows,,part or side opposite to that against which the wind blows,33,100,33
-angelic,partaking of the nature of,,partaking of the nature of,29,100,29
 angelical,partaking of the nature of,,partaking of the nature of,33,100,33
+angelic,partaking of the nature of,,partaking of the nature of,29,100,29
 local,particular place,,particular place,40,100,40
 lore,particular subject,,particular subject,50,100,50
 intercostal,parts between the ribs,,parts between the ribs,45,100,45
 hypodermic,parts under the skin,,parts under the skin,33,100,33
 political,public policy,party,party,59,40,40
 cavalier,party of King Charles I,,party of King Charles I,38,100,38
-erotic,passion of love,,passion of love,17,100,17
 erotical,passion of love,,passion of love,25,100,25
+erotic,passion of love,,passion of love,17,100,17
 paschal,passover,,passover,43,100,43
 noachian,patriarch Noah,,patriarch Noah,38,100,38
 asmonean,patriotic Jewish family to which the Maccabees belonged,,patriotic Jewish family to which the Maccabees belonged,38,100,38
@@ -981,8 +977,8 @@ pavonian,peacock,,peacock,43,100,43
 turbinaceous,peat,,peat,25,100,25
 style,peculiar mode of developing in idea or accomplishing a result,,peculiar mode of developing in idea or accomplishing a result,40,100,40
 lateen,peculiar rig used in the Mediterranean and adjacent waters,,peculiar rig used in the Mediterranean and adjacent waters,50,100,50
-demotic,people,,people,33,100,33
 public,people,,people,33,100,33
+demotic,people,,people,33,100,33
 indo-european,people or nations who speak these languages,,people or nations who speak these languages,38,100,38
 turanian,extensive family of languages of simple structure and low grade,people who speak these languages,people who speak these languages,38,38,38
 cretaceous,period of time following the Jurassic and preceding the Eocene,,period of time following the Jurassic and preceding the Eocene,40,100,40
@@ -1004,8 +1000,8 @@ loimic,plague or contagious disorders,,plague or contagious disorders,33,100,33
 saturnian,Saturn,planet Saturn,planet Saturn,83,56,56
 uranian,planet Uranus,,planet Uranus,43,100,43
 vegetable,plants,,plants,17,100,17
-rutaceous,plants of a natural order,,plants of a natural order,33,100,33
 valerianaceous,plants of a natural order,,plants of a natural order,29,100,29
+rutaceous,plants of a natural order,,plants of a natural order,33,100,33
 asclepiadaceous,plants of the Milkweed family,,plants of the Milkweed family,27,100,27
 musaceous,plants of the genus Musa,,plants of the genus Musa,44,100,44
 half-tone,half tones,plates,plates,89,40,40
@@ -1020,8 +1016,8 @@ malthusian,political economist,,political economist,34,100,34
 pontile,pons Varolii,,pons Varolii,43,100,43
 pontifician,pontiff or pope,,pontiff or pope,55,100,55
 pontific,pope,,pope,50,100,50
-apostolic,pope or the papacy,,pope or the papacy,33,100,33
 apostolical,pope or the papacy,,pope or the papacy,28,100,28
+apostolic,pope or the papacy,,pope or the papacy,33,100,33
 papistic,Church of Rome and its doctrines and ceremonies,popery,popery,38,33,33
 papaverous,poppy,,poppy,40,100,40
 hystricine,porcupines,,porcupines,53,100,53
@@ -1032,19 +1028,19 @@ ceramic,pottery,,pottery,29,100,29
 cogitative,power of thinking or meditating,,power of thinking or meditating,50,100,50
 technic,practice of an art or science,,practice of an art or science,43,100,43
 concionatory,preaching or public addresses,,preaching or public addresses,42,100,42
-propaedeutic,preliminary instruction,,preliminary instruction,34,100,34
 propaedeutical,preliminary instruction,,preliminary instruction,36,100,36
+propaedeutic,preliminary instruction,,preliminary instruction,34,100,34
 promptuary,preparation,,preparation,50,100,50
 modern,present time,,present time,33,100,33
-hieratic,priests,,priests,43,100,43
 sacerdotal,priests,,priests,29,100,29
+hieratic,priests,,priests,43,100,43
 paradoxides,primordial formations,,primordial formations,38,100,38
 hydrostatical,principles of the equilibrium of fluids,,principles of the equilibrium of fluids,23,100,23
 hydrostatic,principles of the equilibrium of fluids,,principles of the equilibrium of fluids,18,100,18
 prelal,printing,,printing,33,100,33
 olitory,produced in,,produced in,22,100,22
-hypothenar,prominent part of the palm of the hand above the base of the little finger,,prominent part of the palm of the hand above the base of the little finger,50,100,50
 hypothenal,prominent part of the palm of the hand above the base of the little finger,,prominent part of the palm of the hand above the base of the little finger,50,100,50
+hypothenar,prominent part of the palm of the hand above the base of the little finger,,prominent part of the palm of the hand above the base of the little finger,50,100,50
 undulatory,propagated alternating motion,,propagated alternating motion,40,100,40
 vaticinal,prophecy,,prophecy,12,100,12
 vatical,prophet,,prophet,14,100,14
@@ -1085,8 +1081,8 @@ osteoplastic,replacement of bone,,replacement of bone,42,100,42
 apocalyptic,revelation,,revelation,32,100,32
 apocalyptical,revelation,,revelation,30,100,30
 geocyclic,revolutions of the earth,,revolutions of the earth,44,100,44
-orthographic,orthography,right lines or angles,right lines or angles,91,30,30
 orthographical,orthography,right lines or angles,right lines or angles,91,34,34
+orthographic,orthography,right lines or angles,right lines or angles,91,30,30
 nilotic,river Nile,,river Nile,29,100,29
 rhenish,river Rhine,,river Rhine,43,100,43
 stygian,river Styx,,river Styx,29,100,29
@@ -1099,10 +1095,10 @@ trochilic,rotary motion,,rotary motion,44,100,44
 serial,series,rows,rows,67,25,25
 tudor,royal line of England,,royal line of England,20,100,20
 ruderary,rubbish,,rubbish,29,100,29
-hierographical,sacred writing,,sacred writing,21,100,21
 hierographic,sacred writing,,sacred writing,25,100,25
-croceous,saffron,,saffron,29,100,29
+hierographical,sacred writing,,sacred writing,21,100,21
 croconic,saffron,,saffron,43,100,43
+croceous,saffron,,saffron,29,100,29
 bibliopolar,sale of books,,sale of books,27,100,27
 bibliopolic,sale of books,,sale of books,27,100,27
 collingual,same language,,same language,50,100,50
@@ -1115,8 +1111,8 @@ perspective,science of vision,,science of vision,29,100,29
 glyphic,sculpture or carving of any sort,,sculpture or carving of any sort,15,100,15
 scorbutic,scurvy,,scurvy,50,100,50
 scorbutical,scurvy,,scurvy,50,100,50
-thalassic,sea,,sea,33,100,33
 marine,sea,,sea,33,100,33
+thalassic,sea,,sea,33,100,33
 muriatic,sea salt,,sea salt,25,100,25
 adriatic,sea so named,,sea so named,25,100,25
 baltic,sea which separates Norway and Sweden from Jutland,,sea which separates Norway and Sweden from Jutland,50,100,50
@@ -1141,9 +1137,9 @@ umbratical,shade or darkness,,shade or darkness,20,100,20
 squaloid,shark or sharks,,shark or sharks,38,100,38
 ovine,sheep,,sheep,20,100,20
 testudinarious,shell of a tortoise,,shell of a tortoise,30,100,30
-conchylaceous,shells,,shells,33,100,33
 conchyliaceous,shells,,shells,33,100,33
 testaceous,shells,,shells,38,100,38
+conchylaceous,shells,,shells,33,100,33
 pastoral,shepherds,,shepherds,25,100,25
 scutal,shield,,shield,33,100,33
 littoral,shore,,shore,40,100,40
@@ -1152,19 +1148,19 @@ spectacular,shows,,shows,20,100,20
 lanioid,shrikes,,shrikes,14,100,14
 lateral,sides,,sides,20,100,20
 obsidional,siege,,siege,40,100,40
-visual,sight,,sight,20,100,20
 visive,sight,,sight,40,100,40
+visual,sight,,sight,20,100,20
 semiotic,language of signs,signs or symptoms of diseases,signs or symptoms of diseases,38,38,38
 semeiotic,language of signs,signs or symptoms of diseases,signs or symptoms of diseases,33,33,33
 sericeous,silk,,silk,50,100,50
-argentous,silver,,silver,17,100,17
 argental,silver,,silver,17,100,17
+argentous,silver,,silver,17,100,17
 monophyletic,single family or stock,,single family or stock,33,100,33
 particular,single person,,single person,30,100,30
 gastric,situated near,,situated near,30,100,30
-cutaneous,skin,,skin,25,100,25
 dermatic,skin,,skin,25,100,25
 dermatine,skin,,skin,50,100,50
+cutaneous,skin,,skin,25,100,25
 dermatopathic,skin diseases,,skin diseases,23,100,23
 somnial,sleep or dreams,,sleep or dreams,29,100,29
 fruticulose,small shrub,,small shrub,18,100,18
@@ -1199,8 +1195,8 @@ catonian,stern old Roman,,stern old Roman,38,100,38
 sternocostal,sternum and the ribs,,sternum and the ribs,50,100,50
 reflex,stimulus or excitation without the necessary intervention of consciousness,,stimulus or excitation without the necessary intervention of consciousness,50,100,50
 gastroepiploic,stomach and omentum,,stomach and omentum,24,100,24
-lapidarian,stone,,stone,20,100,20
 lithic,stone,,stone,20,100,20
+lapidarian,stone,,stone,20,100,20
 saxicoline,stonechats,,stonechats,40,100,40
 fidicinal,stringed instrument,,stringed instrument,44,100,44
 carotic,stupor,,stupor,17,100,17
@@ -1250,16 +1246,16 @@ suprastapedial,that part of the columella of the ear which projects above the co
 right,that side of the body in man on which the muscular action is usually stronger than on the other side,,that side of the body in man on which the muscular action is usually stronger than on the other side,40,100,40
 left,that side of the body in man on which the muscular action of the limbs is usually weaker than on the other side,,that side of the body in man on which the muscular action of the limbs is usually weaker than on the other side,50,100,50
 ventral,situated near,that surface of a carpel,that surface of a carpel,43,43,43
-law,them,,them,0,100,0
 hyosternal,them,,them,50,100,50
+law,them,,them,0,100,0
 hyomental,them,,them,31,100,31
-railroad,them and constituting one property,,them and constituting one property,25,100,25
 railway,them and constituting one property,,them and constituting one property,29,100,29
+railroad,them and constituting one property,,them and constituting one property,25,100,25
 thematic,theme of a word,theme,theme of a word,50,80,50
 crural,thigh or leg,,thigh or leg,33,100,33
 topgallant,third spars in order from the deck,,third spars in order from the deck,30,100,30
-tricennial,thirty years,,thirty years,40,100,40
 tricennarious,thirty years,,thirty years,48,100,48
+tricennial,thirty years,,thirty years,40,100,40
 appertain,this life,,this life,22,100,22
 secular,this present world,,this present world,29,100,29
 sublunar,this world,,this world,25,100,25
@@ -1297,8 +1293,8 @@ tentative,trial or trials,,trial or trials,33,100,33
 zalambdodont,tribe,,tribe,20,100,20
 caprid,tribe of ruminants of which the goat,,tribe of ruminants of which the goat,33,100,33
 vicenary,twenty,,twenty,50,100,50
-viminal,twigs,,twigs,20,100,20
 vimineous,twigs,,twigs,29,100,29
+viminal,twigs,,twigs,20,100,20
 bicentenary,two hundred,,two hundred,29,100,29
 binominal,two names,,two names,38,100,38
 diplanar,two planes,,two planes,50,100,50
@@ -1309,6 +1305,7 @@ barbaric,uncivilized person or people,,uncivilized person or people,12,100,12
 palmar,under side of the wings of birds,,under side of the wings of birds,17,100,17
 noematic,understanding,,understanding,38,100,38
 noematical,understanding,,understanding,40,100,40
+omphacine,unripe fruit,,unripe fruit,22,100,22
 thiosulphuric,unstable acid,,unstable acid,23,100,23
 supramaxillary,upper jaw,,upper jaw,44,100,44
 mystacal,upper lip,,upper lip,12,100,12
@@ -1335,8 +1332,8 @@ mural,wall,,wall,50,100,50
 somatic,body as a whole,wall of the body,wall of the body,29,29,29
 bellic,war,,war,0,100,0
 bellical,war,,war,33,100,33
-hydrodynamic,water power,,water power,18,100,18
 hydrodynamical,water power,,water power,18,100,18
+hydrodynamic,water power,,water power,18,100,18
 textrine,weaving,,weaving,43,100,43
 textorial,weaving,,weaving,29,100,29
 telary,web,,web,33,100,33
@@ -1351,16 +1348,16 @@ general,whole class or order,,whole class or order,29,100,29
 uxorial,wife,,wife,25,100,25
 wifelike,wife or a woman,,wife or a woman,50,100,50
 voluntary,will,voluntaryism,will,25,100,25
-testamentary,will,,will,0,100,0
 volitive,will,,will,25,100,25
+testamentary,will,,will,0,100,0
 aeolian,Æolia or Æolis,wind,wind,57,50,50
 arteriac,windpipe,,windpipe,12,100,12
 vinous,wine,,wine,50,100,50
 vinic,wine,,wine,50,100,50
 alary,wings,,wings,0,100,0
 brumal,winter,,winter,17,100,17
-feminine,woman,woman,woman,40,40,40
 effeminate,woman,,woman,40,100,40
+feminine,woman,woman,woman,40,40,40
 smock,smock,woman,woman,100,20,20
 female,woman,,woman,40,100,40
 nemoral,wood or grove,,wood or grove,29,100,29
@@ -1368,8 +1365,8 @@ picine,woodpeckers,,woodpeckers,50,100,50
 silvan,woods,,woods,18,100,18
 verbarian,words,,words,20,100,20
 vulcanian,Vulcan,works in iron or other metals,works in iron or other metals,83,22,22
-terrestrial,earth,world,world,40,40,40
 mundane,world,,world,20,100,20
+terrestrial,earth,world,world,40,40,40
 vermicular,worm or worms,,worm or worms,30,100,30
 vermicious,worms,,worms,40,100,40
 absinthial,wormwood,,wormwood,0,100,0

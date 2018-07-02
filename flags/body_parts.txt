@@ -1,3 +1,8 @@
+supramaxillary
+inframaxillary
+tibiotarsal
+hemorrhoidal
+gingival
 articular
 mentomeckelian
 haematic
