@@ -103,7 +103,7 @@ def clean_entry(st, extra_strs, articles, punc_list, punc_no_commas, verbose):
 
 def parse_dict(**argv):
     # read in the big dictionary and beautify the Dataframe a bit
-    dct = json.load(open('./dictionary_compact.json','r'))
+    dct = json.load(open('./files/dictionary_compact.json','r'))
     dct = pd.DataFrame.from_dict(dct,orient='index')
     dct.columns = ['definition']
     dct = dct.rename_axis('word')
@@ -206,8 +206,8 @@ def parse_dict(**argv):
     nontrivial_list = subset[ind_arr]
     if to_print:
         print(nontrivial_list[['target','triviality']].tail(60))
-        subset[['target 1','target 2','target','triviality_1','triviality_2','triviality']].to_csv('vulpyne.csv')
+        subset[['target 1','target 2','target','triviality_1','triviality_2','triviality']].to_csv('./files/vulpyne.csv')
         print('%d total entries found, of which %d are nontrivial.'%(len(subset),len(nontrivial_list)))
-    nontrivial_list[['target 1','target 2','target','triviality_1','triviality_2','triviality']].to_csv('vulpyne_nontrivial.csv')
+    nontrivial_list[['target 1','target 2','target','triviality_1','triviality_2','triviality']].to_csv('./files/vulpyne_nontrivial.csv')
 
     return subset
