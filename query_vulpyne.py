@@ -1,4 +1,4 @@
-from parse_dict import parse_dict
+from functions import *
 import pandas as pd
 import sys
 

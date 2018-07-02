@@ -1,5 +1,4 @@
 from functions import *
-from parse_dict import *
 import sys
 
 if len(sys.argv)>1:
