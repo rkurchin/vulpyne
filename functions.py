@@ -4,6 +4,7 @@ import pandas as pd
 from copy import deepcopy
 from fuzzywuzzy import fuzz
 import numpy as np
+from glob import glob
 
 def skip_extra_strs(d,extra_strs,verbose):
     defn = d
@@ -135,6 +136,14 @@ def parse_dict(**argv):
     to_print = argv.setdefault('to_print',True)
     to_print = argv['to_print']
 
+    # prep lists for flags
+    flag_words = {}
+    flags = {}
+    flag_list = [f for f in glob('flags/*.txt')]
+    for flag_file in flag_list:
+        flags[flag_file[6:-4]] = [False] * len(subset)
+        flag_words[flag_file[6:-4]] = [w.split('\n')[0] for w in open(flag_file,'r').readlines()]
+
     # now parse!
     target_list_1 = []
     target_list_2 = []
@@ -143,6 +152,8 @@ def parse_dict(**argv):
     trivialities_2 = []
     trivialities = []
     nontrivial = []
+
+    count = 0
     for entry in subset.iterrows():
         word = entry[0]
         defn = entry[1]['definition']
@@ -191,6 +202,12 @@ def parse_dict(**argv):
             nontrivial.append(True)
         else:
             nontrivial.append(False)
+        
+        for flag,words in flag_words.items():
+            if word in words:
+                flags[flag][count] = True
+
+        count = count+1
 
     subset['target 1'] = target_list_1
     subset['target 2'] = target_list_2
@@ -200,14 +217,19 @@ def parse_dict(**argv):
     subset['triviality'] = trivialities
     subset['nontrivial'] = nontrivial
 
-    subset=subset.sort_values(by='target')
+    for flag,list in flags.items():
+        subset[flag] = list
 
     ind_arr = subset['nontrivial']==True
     nontrivial_list = subset[ind_arr]
+
+    subset=subset.sort_values(by='target')
+
     if to_print:
-        print(nontrivial_list[['target','triviality']].tail(60))
-        subset[['target 1','target 2','target','triviality_1','triviality_2','triviality']].to_csv('./data/vulpyne.csv')
+        print(nontrivial_list[['target','triviality']+flags.keys()].tail(60))
         print('%d total entries found, of which %d are nontrivial.'%(len(subset),len(nontrivial_list)))
-    nontrivial_list[['target 1','target 2','target','triviality_1','triviality_2','triviality']].to_csv('./data/vulpyne_nontrivial.csv')
+
+    subset.to_csv('./data/vulpyne.csv')
+    nontrivial_list.to_csv('./data/vulpyne_nontrivial.csv')
 
     return subset

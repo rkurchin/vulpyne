@@ -1,3 +1,5 @@
+hirudine
+culicid
 elaphine
 corvine
 cervine

@@ -1,3 +1,7 @@
+malar
+basioccipital
+crinal
+pneumonic
 supramaxillary
 inframaxillary
 tibiotarsal
