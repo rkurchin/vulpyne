@@ -1,5 +1,6 @@
 from parse_dict import *
 import pandas as pd
+from glob import glob
 
 dct = parse_dict(to_print=False,verbose=False)
 flag_list = [f[6:-4] for f in glob('flags/*.txt')]
@@ -16,7 +17,10 @@ with open('vulpyne.tex','w') as f:
             st = 'Something with the noun (%s) and the adjective (%s) that you will cook up!'%(target,word)
         elif len(flags_here)==1:
             st = 'Something with the noun (%s) and the adjective (%s) that you will cook up, which also mentions that this word is flagged with %s!'%(target,word,flags_here[0])
+        elif len(flags_here)==2:
+            flag_str = '%s and %s'%(flags_here[0],flags_here[1])
+            st = 'Something with the noun (%s) and the adjective (%s) that you will cook up, which also mentions that this word is flagged with %s!'%(target,word,flags_str)
         else:
-            print('We need a way to handle multiple flags now!')
+            print('We need a way to handle even more flags now!')
         f.write(st)
 
